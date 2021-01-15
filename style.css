@@ -1,0 +1,75 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    margin: 0px;
+}
+.navbar{
+    padding-right: 10%;
+    padding-top: 3%;
+    font-size: 25px;
+    background-color: #fff9f4;
+}
+.back{
+    padding-top: 7%;
+    background-color: #fff9f4;
+}
+.logo{
+    margin-left: 8%;
+}
+p{
+    color: dimgray;
+    font-size: 20px;
+}
+.name-highlight{
+    color: #fa804c;
+    font-size: 90px;
+    
+}
+.name-highlights{
+    color: #363958;
+    font-size: 90px;
+    
+}
+.name-highlightz{
+    color: #363958;
+    
+}
+
+.center {
+    margin-left: 1%;
+    margin-right: 5%;
+    width: 50%;
+    height: 50%;
+  }
+.decoration{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, navy, blue);
+    padding: 20px 40px;
+    border-radius: 9px;
+    color: white;
+    font-weight: 700;
+}
+.decoration:hover{
+    color: white;
+}
+.buy-box{
+   margin-bottom: 8%;
+}
+.container{
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    background-color: #fff9f4;
+}
+.price{
+    padding-bottom: 7%;
+}
+.top-banner{
+    background-color: #fff9f4;
+}
+.sizing{
+    width: 50%;
+}
+.about{
+    padding-top: 2%;
+}
